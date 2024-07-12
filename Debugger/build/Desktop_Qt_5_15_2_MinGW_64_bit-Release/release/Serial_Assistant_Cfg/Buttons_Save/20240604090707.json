@@ -1,0 +1,62 @@
+{
+    "512045": {
+        "Color": "#000000",
+        "Data": "",
+        "Hex": true,
+        "ID": 512045,
+        "Name": "前",
+        "Protect": false,
+        "X": 320,
+        "Y": 80
+    },
+    "523517": {
+        "Color": "#000000",
+        "Data": "",
+        "Hex": true,
+        "ID": 523517,
+        "Name": "左",
+        "Protect": false,
+        "X": 240,
+        "Y": 130
+    },
+    "529108": {
+        "Color": "#000000",
+        "Data": "",
+        "Hex": true,
+        "ID": 529108,
+        "Name": "右",
+        "Protect": false,
+        "X": 400,
+        "Y": 130
+    },
+    "532311": {
+        "Color": "#000000",
+        "Data": "",
+        "Hex": true,
+        "ID": 532311,
+        "Name": "后",
+        "Protect": false,
+        "X": 320,
+        "Y": 180
+    },
+    "544308": {
+        "Color": "#ff5500",
+        "Data": "",
+        "Hex": true,
+        "ID": 544308,
+        "Name": "急停",
+        "Protect": false,
+        "X": 220,
+        "Y": 60
+    },
+    "554292": {
+        "Color": "#00aa00",
+        "Data": "",
+        "Hex": true,
+        "ID": 554292,
+        "Name": "复位",
+        "Protect": false,
+        "X": 420,
+        "Y": 60
+    }
+}

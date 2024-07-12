@@ -1,0 +1,292 @@
+{
+    "1018546": {
+        "Color": "#ff5500",
+        "Data": "52b102000000",
+        "Hex": true,
+        "ID": 1018546,
+        "Name": "升降 停止",
+        "Protect": false,
+        "X": 580,
+        "Y": 50
+    },
+    "1050802": {
+        "Color": "#ff007f",
+        "Data": "52f2000000",
+        "Hex": true,
+        "ID": 1050802,
+        "Name": "行走 错误恢复",
+        "Protect": false,
+        "X": 20,
+        "Y": 170
+    },
+    "1128099": {
+        "Color": "#ff007f",
+        "Data": "52f3000000",
+        "Hex": true,
+        "ID": 1128099,
+        "Name": "升降 错误恢复",
+        "Protect": false,
+        "X": 460,
+        "Y": 160
+    },
+    "1220074": {
+        "Color": "#00007f",
+        "Data": "52a204ff9c006400",
+        "Hex": true,
+        "ID": 1220074,
+        "Name": "相对位置控制：行走 -100mm 100mm/s",
+        "Protect": false,
+        "X": 20,
+        "Y": 320
+    },
+    "1237616": {
+        "Color": "#ff007f",
+        "Data": "52af000000",
+        "Hex": true,
+        "ID": 1237616,
+        "Name": "行走 编码器复位",
+        "Protect": false,
+        "X": 140,
+        "Y": 170
+    },
+    "1329974": {
+        "Color": "#ff007f",
+        "Data": "52bf000000",
+        "Hex": true,
+        "ID": 1329974,
+        "Name": "升降 编码器复位",
+        "Protect": false,
+        "X": 670,
+        "Y": 160
+    },
+    "1412100": {
+        "Color": "#ff0000",
+        "Data": "52ae010000",
+        "Hex": true,
+        "ID": 1412100,
+        "Name": "行走 保护关闭30s",
+        "Protect": false,
+        "X": 20,
+        "Y": 230
+    },
+    "1429905": {
+        "Color": "#00007f",
+        "Data": "52a204019001f400",
+        "Hex": true,
+        "ID": 1429905,
+        "Name": "相对位置控制：行走 500mm 400mm/s",
+        "Protect": false,
+        "X": 20,
+        "Y": 380
+    },
+    "150436": {
+        "Color": "#0000ff",
+        "Data": "52a102006400",
+        "Hex": true,
+        "ID": 150436,
+        "Name": "行走 正向 0.1m/s",
+        "Protect": false,
+        "X": 230,
+        "Y": 20
+    },
+    "1532739": {
+        "Color": "#ff0000",
+        "Data": "52be010000",
+        "Hex": true,
+        "ID": 1532739,
+        "Name": "升降 保护关闭30s",
+        "Protect": false,
+        "X": 460,
+        "Y": 220
+    },
+    "1752682": {
+        "Color": "#ff0000",
+        "Data": "52ae010100",
+        "Hex": true,
+        "ID": 1752682,
+        "Name": "行走 保护恢复",
+        "Protect": false,
+        "X": 140,
+        "Y": 230
+    },
+    "1856684": {
+        "Color": "#ff0000",
+        "Data": "52be010100",
+        "Hex": true,
+        "ID": 1856684,
+        "Name": "升降 保护恢复",
+        "Protect": false,
+        "X": 670,
+        "Y": 220
+    },
+    "2257858": {
+        "Color": "#00007f",
+        "Data": "52b204ff9c003200",
+        "Hex": true,
+        "ID": 2257858,
+        "Name": "相对位置控制：升降 -100mm 50mm/s",
+        "Protect": false,
+        "X": 690,
+        "Y": 320
+    },
+    "2301619": {
+        "Color": "#00007f",
+        "Data": "52b20401f4006400",
+        "Hex": true,
+        "ID": 2301619,
+        "Name": "相对位置控制：升降 500mm 100mm/s",
+        "Protect": false,
+        "X": 690,
+        "Y": 380
+    },
+    "247264": {
+        "Color": "#0000ff",
+        "Data": "52b102ffce00",
+        "Hex": true,
+        "ID": 247264,
+        "Name": "升降 上 0.05m/s",
+        "Protect": false,
+        "X": 460,
+        "Y": 20
+    },
+    "2529274": {
+        "Color": "#00aa00",
+        "Data": "52fe010100",
+        "Hex": true,
+        "ID": 2529274,
+        "Name": "测试动作流程 启动",
+        "Protect": false,
+        "X": 900,
+        "Y": 40
+    },
+    "2608231": {
+        "Color": "#ff5500",
+        "Data": "52fe010000",
+        "Hex": true,
+        "ID": 2608231,
+        "Name": "测试动作流程 停止",
+        "Protect": false,
+        "X": 900,
+        "Y": 110
+    },
+    "2815265": {
+        "Color": "#5500ff",
+        "Data": "",
+        "Hex": true,
+        "ID": 2815265,
+        "Name": "绝对位置控制：行走 -500mm 400mm/s",
+        "Protect": false,
+        "X": 20,
+        "Y": 440
+    },
+    "2951078": {
+        "Color": "#5500ff",
+        "Data": "52a304ff9c006400",
+        "Hex": true,
+        "ID": 2951078,
+        "Name": "绝对位置控制：行走 -100mm 100mm/s",
+        "Protect": false,
+        "X": 20,
+        "Y": 500
+    },
+    "3035690": {
+        "Color": "#5500ff",
+        "Data": "",
+        "Hex": true,
+        "ID": 3035690,
+        "Name": "绝对位置控制：升降 500mm 100mm/s",
+        "Protect": false,
+        "X": 690,
+        "Y": 440
+    },
+    "3135695": {
+        "Color": "#5500ff",
+        "Data": "",
+        "Hex": true,
+        "ID": 3135695,
+        "Name": "绝对位置控制：行走 50mm 50mm/s",
+        "Protect": false,
+        "X": 20,
+        "Y": 560
+    },
+    "3157092": {
+        "Color": "#5500ff",
+        "Data": "",
+        "Hex": true,
+        "ID": 3157092,
+        "Name": "绝对位置控制：升降 100mm 50mm/s",
+        "Protect": false,
+        "X": 690,
+        "Y": 500
+    },
+    "3178": {
+        "Color": "#0000ff",
+        "Data": "52a102ff9c00",
+        "Hex": true,
+        "ID": 3178,
+        "Name": "行走 反向 0.1m/s",
+        "Protect": false,
+        "X": 20,
+        "Y": 20
+    },
+    "338151": {
+        "Color": "#0000ff",
+        "Data": "52b102003200",
+        "Hex": true,
+        "ID": 338151,
+        "Name": "升降 下 0.05m/s",
+        "Protect": false,
+        "X": 670,
+        "Y": 20
+    },
+    "440702": {
+        "Color": "#aa00ff",
+        "Data": "52a102fe7000",
+        "Hex": true,
+        "ID": 440702,
+        "Name": "行走 反向 0.4m/s",
+        "Protect": false,
+        "X": 20,
+        "Y": 80
+    },
+    "504486": {
+        "Color": "#aa00ff",
+        "Data": "52a102019000",
+        "Hex": true,
+        "ID": 504486,
+        "Name": "行走 正向 0.4m/s",
+        "Protect": false,
+        "X": 230,
+        "Y": 80
+    },
+    "802944": {
+        "Color": "#aa00ff",
+        "Data": "52b102ff9c00",
+        "Hex": true,
+        "ID": 802944,
+        "Name": "升降 上 0.10m/s",
+        "Protect": false,
+        "X": 460,
+        "Y": 80
+    },
+    "806619": {
+        "Color": "#aa00ff",
+        "Data": "52b102006400",
+        "Hex": true,
+        "ID": 806619,
+        "Name": "升降 下 0.10m/s",
+        "Protect": false,
+        "X": 670,
+        "Y": 80
+    },
+    "936017": {
+        "Color": "#ff5500",
+        "Data": "52a102000000",
+        "Hex": true,
+        "ID": 936017,
+        "Name": "行走 停止",
+        "Protect": false,
+        "X": 140,
+        "Y": 50
+    }
+}

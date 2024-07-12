@@ -1,0 +1,52 @@
+{
+    "0": {
+        "Color": "#000000",
+        "Data": "",
+        "Hex": true,
+        "ID": 0,
+        "Name": "NewButton000",
+        "Protect": false,
+        "X": 10,
+        "Y": 10
+    },
+    "1": {
+        "Color": "#000000",
+        "Data": "1234",
+        "Hex": true,
+        "ID": 1,
+        "Name": "12 34",
+        "Protect": false,
+        "X": 120,
+        "Y": 10
+    },
+    "2": {
+        "Color": "#000000",
+        "Data": "",
+        "Hex": true,
+        "ID": 2,
+        "Name": "NewButton",
+        "Protect": false,
+        "X": 210,
+        "Y": 10
+    },
+    "3": {
+        "Color": "#000000",
+        "Data": "",
+        "Hex": true,
+        "ID": 3,
+        "Name": "NewButton",
+        "Protect": false,
+        "X": 300,
+        "Y": 10
+    },
+    "5": {
+        "Color": "#000000",
+        "Data": "",
+        "Hex": true,
+        "ID": 5,
+        "Name": "NewButton",
+        "Protect": false,
+        "X": 390,
+        "Y": 10
+    }
+}
